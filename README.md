@@ -79,9 +79,11 @@
 ![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Areas of Interest:
+### Areas of Interest:
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 ![Svelte](https://img.shields.io/badge/-svelte-0D1117?style=for-the-badge&logo=svelte&labelColor=0D1117)&nbsp;
+
 
 
 
