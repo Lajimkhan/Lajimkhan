@@ -18,7 +18,7 @@
 
 <!-- ./Contribution Streak  -->
 <div align="center">
-  <img height="auto" width="91%" src="https://https://github-readme-streak-stats.herokuapp.com/?user=Lajimkhan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117%22%20alt=%22lajim%20|%20Ibrahim%20Khalil" />
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lajimkhan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="lajim | Ibrahim Khalil" />
 </div>
 
 
@@ -82,7 +82,6 @@
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 ![Svelte](https://img.shields.io/badge/-svelte-0D1117?style=for-the-badge&logo=svelte&labelColor=0D1117)&nbsp;
-
 
 
 
