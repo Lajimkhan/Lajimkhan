@@ -18,9 +18,8 @@
 
 <!-- ./Contribution Streak  -->
 <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lajimkhan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117%22%20" alt="lajim | Ibrahim Khalil" />
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lajimkhan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="lajim | Ibrahim Khalil" />
 </div>
-
 
 
 
