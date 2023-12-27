@@ -92,7 +92,7 @@
   <br>
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lajim110}/count.svg" /></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lajimkhan}/count.svg" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer"/>
